@@ -4,12 +4,12 @@ Tags: fb, facebook, facebook cache clear, fb cache cleaner, delete cache faceboo
 Donate link: http://goo.gl/g9iLXd
 Requires at least: 3.0
 Tested up to: 4.1.1
-Stable tag: stable
+Stable tag: trunk
 
-This plugin clear the cache of facebook after a post is updated.
+This plugin clear the cache of facebook after a post is updated or published.
 
 == Description ==
-This plugin clear the cache of facebook after a post is updated.
+This plugin clear the cache of facebook after a post is updated or published.
 
 Additionally you can choose if clear the cache for only public post or also for the password-protected post.
 
@@ -29,18 +29,16 @@ Is also possible to clear the cache for all posts with one click. This require m
 5. Activate the FB Cache Cleaner plugin through the `Plugins` menu in WordPress
 6. Configure the plugin by going to the FB Cache Cleaner menu that appears in your admin menu or admin toolbar
 
-
-
 == Frequently Asked Questions ==
 = Is this plugin tested work with SEO by Yoast =
-Yes.
+Yes. We have tested the plugin with the latest Yoast SEO Plugin.
 
 == Screenshots ==
 1. Admin menu
 
 == Changelog ==
 = 03/03/2015 =
-* Initial release.
+* First version
 
 == Upgrade Notice ==
 = 1.0 =
