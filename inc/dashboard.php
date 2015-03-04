@@ -1,5 +1,7 @@
 <?php
 
+defined('ABSPATH') or die('No script kiddies please!');
+
 $theopt = filter_input(INPUT_POST, 'purge_opt', FILTER_SANITIZE_STRING);
 
 if(isset($_POST['submit'])){
